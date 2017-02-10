@@ -1,0 +1,15 @@
+{
+  "name": "clonkbot",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cross-env NODE_ENV=production node bot.js"
+  },
+  "author": "Kanibal",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^1.25.1",
+    "cross-env": "^3.1.4",
+    "eventsource": "^0.2.1",
+    "irc": "^0.5.2"
+  }
+}

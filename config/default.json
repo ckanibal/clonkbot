@@ -1,0 +1,14 @@
+{
+	"irc": {
+		"server": "irc.euirc.net",
+		"port": 6697,
+		"ssl": true,
+		"nick": "anonbot",
+		"username": "anonbot",
+		"realname": "anonbot",
+		"channels": []
+	},
+	"masterserver": {
+		"url": "https://clonkspot.org/openclonk-league/poll_game_events.php"
+	}
+}
